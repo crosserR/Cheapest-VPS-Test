@@ -1,4 +1,4 @@
-[Vultr](https://d.oo14.com/0fCa)：2020年新用户送103美元，全球16个机房，按小时计费云服务器$2.5/月起
+[Vultr](http://bit.ly/2QqEfuf)：2020年新用户送103美元，全球16个机房，按小时计费云服务器$2.5/月起
 ==
 
 
@@ -8,7 +8,7 @@ Vultr目前发布新用户赠送100美元使用额度活动，所有新用户注
 
 ### 活动介绍
 1. 新用户可免费获得$100免费充值金额，有效期为30天，30天内可任意消费购入云服务器产品。
-* 新用户注册地址：点击直达Vultr赠送100美元[唯一注册通道](https://d.oo14.com/0fCa)
+* 新用户注册地址：点击直达Vultr赠送100美元[唯一注册通道](http://bit.ly/2QqEfuf)
 2. 完成推特任务活动可获得$3永久有效的使用金额。
 * 新用户只需绑定Twitter账号、关注Vultr推特账号等，完成每个步骤都可获得1美元使用金额，共计3美元，此活动长期有效。
 
@@ -20,20 +20,20 @@ Vultr成立于2014年，主营VPS云服务器、独立服务器等产品，按�
 
 ![image.png](http://ww1.sinaimg.cn/large/d0640841ly1gd3pfs1ea1j226w10o78n.jpg)
 
-[云服务器](https://d.oo14.com/0fCa)
+[云服务器](http://bit.ly/2QqEfuf)
 
 |CPU|	内存|	SSD|	带宽|	流量|	IP|	构架|	价格（月）|	购买|
 | ------ | ------ | ------ | ------ | ------ | ------ |------ | ------ | ------ |
-|1核心|	512MB|	20GB|	1Gbps|	500GB|	1个IPv6|	KVM|	$2.50|	   [点击直达](https://d.oo14.com/0fCa)
-|1核心	|512MB| 20GB	|1Gbps	|500GB	|1个IPv4|	KVM|	$3.50	 | [点击直达](https://d.oo14.com/0fCa)
-|1核心	|1GB	| 25GB	|1Gbps	|1000GB	|1个IPv4|	KVM|	$5.00	 | [点击直达](https://d.oo14.com/0fCa)
-|1核心	|2GB  |	55GB	|1Gbps	|2000GB	|1个IPv4|	KVM|	$10.00	|[点击直达](https://d.oo14.com/0fCa)
-|2核心	|4GB	| 80GB	|1Gbps	|3000GB	|1个IPv4|	KVM|	$20.00	|[点击直达](https://d.oo14.com/0fCa)
-|4核心	|8GB	| 160GB	|1Gbps	|4000GB	|1个IPv4|	KVM|	$40.00	|[点击直达](https://d.oo14.com/0fCa)
-|6核心	|16GB	| 320GB	|1Gbps	|5000GB	|1个IPv4|	KVM|	$80.00	|[点击直达](https://d.oo14.com/0fCa)
-|8核心	|32GB	| 640GB	|1Gbps	|6000GB	|1个IPv4|	KVM|	$160.00| [点击直达](https://d.oo14.com/0fCa)
-|16核心|	64GB|	1280GB|	1Gbps|	10000GB |1个IPv4	|KVM|	$320.00| [点击直达](https://d.oo14.com/0fCa)
-|24核心|	96GB|	1600GB|	1Gbps|	15000GB	|1个IPv4|	KVM|$640.00| [点击直达](https://d.oo14.com/0fCa)
+|1核心|	512MB|	20GB|	1Gbps|	500GB|	1个IPv6|	KVM|	$2.50|	   [点击直达](http://bit.ly/2QqEfuf)
+|1核心	|512MB| 20GB	|1Gbps	|500GB	|1个IPv4|	KVM|	$3.50	 | [点击直达](http://bit.ly/2QqEfuf)
+|1核心	|1GB	| 25GB	|1Gbps	|1000GB	|1个IPv4|	KVM|	$5.00	 | [点击直达](http://bit.ly/2QqEfuf)
+|1核心	|2GB  |	55GB	|1Gbps	|2000GB	|1个IPv4|	KVM|	$10.00	|[点击直达](http://bit.ly/2QqEfuf)
+|2核心	|4GB	| 80GB	|1Gbps	|3000GB	|1个IPv4|	KVM|	$20.00	|[点击直达](http://bit.ly/2QqEfuf)
+|4核心	|8GB	| 160GB	|1Gbps	|4000GB	|1个IPv4|	KVM|	$40.00	|[点击直达](http://bit.ly/2QqEfuf)
+|6核心	|16GB	| 320GB	|1Gbps	|5000GB	|1个IPv4|	KVM|	$80.00	|[点击直达](http://bit.ly/2QqEfuf)
+|8核心	|32GB	| 640GB	|1Gbps	|6000GB	|1个IPv4|	KVM|	$160.00| [点击直达](http://bit.ly/2QqEfuf)
+|16核心|	64GB|	1280GB|	1Gbps|	10000GB |1个IPv4	|KVM|	$320.00| [点击直达](http://bit.ly/2QqEfuf)
+|24核心|	96GB|	1600GB|	1Gbps|	15000GB	|1个IPv4|	KVM|$640.00| [点击直达](http://bit.ly/2QqEfuf)
 
 ### 注意事项
 
