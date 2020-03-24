@@ -1,13 +1,13 @@
-2020年[搬瓦工](https://d.oo14.com/0pCa)最新优惠码汇总，高速优质便宜的美国、香港cn2 vps方案整理
+2020年[搬瓦工](https://bit.ly/38Yv0be)最新优惠码汇总，高速优质便宜的美国、香港cn2 vps方案整理
 ==
 
-[搬瓦工](https://d.oo14.com/0pCa)是一家知名的美国VPS销售商，主营美国洛杉矶数据中心产品，有美国CN2 GT，美国CN2 GIA线路可以选择，采用KVM架构，纯SSD硬盘，1Gbps带宽端口，无论是机器稳定性、带宽速度保障、适合国人使用，支持**支付宝**、**微信**、**PayPal**等方式付款购买。
+[搬瓦工](https://bit.ly/38Yv0be)是一家知名的美国VPS销售商，主营美国洛杉矶数据中心产品，有美国CN2 GT，美国CN2 GIA线路可以选择，采用KVM架构，纯SSD硬盘，1Gbps带宽端口，无论是机器稳定性、带宽速度保障、适合国人使用，支持**支付宝**、**微信**、**PayPal**等方式付款购买。
 
-[最新官网链接](https://d.oo14.com/0pCa)
+[最新官网链接](https://bit.ly/38Yv0be)
 
 ![image.png](http://ww1.sinaimg.cn/large/d0640841ly1gd3sawthp1j220y15uqv5.jpg)
 
-## [搬瓦工最新优惠码](https://d.oo14.com/0pCa)
+## [搬瓦工最新优惠码](https://bit.ly/38Yv0be)
 * **BWH3HYATVBJW**（优惠力度 6.58%）
 
 ## VPS方案汇总
