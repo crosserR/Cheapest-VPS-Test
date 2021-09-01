@@ -52,3 +52,19 @@
 > * 价格：$19.88/年
 > * 购买：[点击直达](https://pacificrack.com/portal/aff.php?aff=1682&pid=48)
 ---
+```
+最实惠方案：
+```
+---
+> * 4G KVM VPS
+> * CPU：2核
+> * 内存：4GB
+> * 硬盘：50GB SSD RAID 10
+> * 带宽：1Gbps
+> * 流量：5TB/月
+> * 防御：3Gbps DDoS
+> * IPv4：1个
+> * 架构：KVM
+> * 价格：$18/年
+> * 购买：[点击直达](https://pacificrack.com/portal/aff.php?aff=1682&pid=174)
+---
