@@ -24,6 +24,7 @@
 
 |CPU	|内存	|SSD缓存	|带宽	|流量|	架构	|IPv4	|价格(年)	|购买地址
 | ------ | ------ |------ | ------ |------ | ------ | ------ |------ | ------ |
+|1核心	|1.0GB	|22GB RAID-10	|1Gbps	|2500GB	|KVM	|1个	|$13.89	|[点击购买](https://my.racknerd.com/aff.php?aff=712&pid=645)
 |2核心	|1.5GB	|20GB RAID-10	|1Gbps	|4000GB	|KVM	|1个	|$16.55	|[点击购买](https://my.racknerd.com/aff.php?aff=712&pid=128)
 |3核心	|2.5GB	|40GB RAID-10	|1Gbps	|6500GB	|KVM	|1个	|$23.49	|[点击购买](https://my.racknerd.com/aff.php?aff=712&pid=129)
 |3核心	|3.5GB	|45GB RAID-10	|1Gbps	|7000GB	|KVM	|1个	|$28.99	|[点击购买](https://my.racknerd.com/aff.php?aff=712&pid=130)
